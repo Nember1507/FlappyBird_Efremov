@@ -1,0 +1,10 @@
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.csproj.AssemblyReference.cache
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.Properties.Resources.resources
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.csproj.GenerateResource.cache
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\bin\Debug\FlappyBird_Efremov.exe.config
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\bin\Debug\FlappyBird_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\bin\Debug\FlappyBird_Efremov.pdb
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\FlappyBird_Efremov\FlappyBird_Efremov\obj\Debug\FlappyBird_Efremov.pdb
